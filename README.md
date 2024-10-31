@@ -1,3 +1,3 @@
 # vxzy-demo
-This is my first git repository
-author - vivek kahar
+This is my first Git Repository
+Author - Vivek Kahar
